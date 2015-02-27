@@ -14,8 +14,8 @@ How to use:
 
 1. Import the project as an Android Library to your workspace
 2. Get your CboxId and CboxTag (you can get this values from your cbox url: http://www5.cbox.ws/box/?boxid=CBOXID&boxtag=CBOXTAG&sec=form)
-3. Instanciate the Cbox Object: CboxApi cbox = new CboxApi("CBOXID","CBOXTAG");
-4. Login to get the user token:  String token = cbox.performALogin(USERNAME,PASSWORD);
+3. Instanciate the Cbox Object: CboxApi cbox = new CboxApi("CBOXID", "CBOXTAG");
+4. Login to get the user token:  String token = cbox.performALogin(USERNAME, PASSWORD);
 5. Send a message: cbox.postAMessage(USERNAME, EMAIL, TOKEN, MESSAGE);
 
 
