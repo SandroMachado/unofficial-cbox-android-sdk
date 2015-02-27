@@ -5,7 +5,7 @@ This android project was created to allow the native interaction with a Cbox Cha
 
 I used this project to allow the users of the mobile android application Moreirense1938 (https://play.google.com/store/apps/details?id=com.sandro.mfc) interact with the Cbox Chat avaliable at the blog Moreirense1938 (http://www.moreirense1938.com/).
 
-The project have already implemented three actions:
+The project already have implemented three actions:
 - Login User
 - Send a Message
 - Remove a Message
